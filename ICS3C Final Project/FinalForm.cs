@@ -19,11 +19,7 @@ namespace ICS3C_Final_Project
         {
             InitializeComponent();
             finalScore = score;
-        }
 
-        // Display the score when the form loads
-        private void ScoreForm_Load(object sender, EventArgs e)
-        {
             Scorelbl.Text = "Your Score : " + finalScore + " / 3";
         }
 

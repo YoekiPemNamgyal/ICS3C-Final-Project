@@ -42,9 +42,9 @@
             // Wordslbl
             // 
             this.Wordslbl.BackColor = System.Drawing.Color.Transparent;
-            this.Wordslbl.Font = new System.Drawing.Font("Niagara Solid", 75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Wordslbl.Font = new System.Drawing.Font("Niagara Solid", 85.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Wordslbl.ForeColor = System.Drawing.Color.White;
-            this.Wordslbl.Location = new System.Drawing.Point(10, 26);
+            this.Wordslbl.Location = new System.Drawing.Point(10, 51);
             this.Wordslbl.Name = "Wordslbl";
             this.Wordslbl.Size = new System.Drawing.Size(776, 124);
             this.Wordslbl.TabIndex = 0;
@@ -56,7 +56,7 @@
             this.Hintlbl.BackColor = System.Drawing.Color.Transparent;
             this.Hintlbl.Font = new System.Drawing.Font("Niagara Solid", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Hintlbl.ForeColor = System.Drawing.Color.White;
-            this.Hintlbl.Location = new System.Drawing.Point(10, 166);
+            this.Hintlbl.Location = new System.Drawing.Point(10, 191);
             this.Hintlbl.Name = "Hintlbl";
             this.Hintlbl.Size = new System.Drawing.Size(776, 40);
             this.Hintlbl.TabIndex = 1;
@@ -68,7 +68,7 @@
             this.Timelbl.BackColor = System.Drawing.Color.Transparent;
             this.Timelbl.Font = new System.Drawing.Font("Niagara Solid", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Timelbl.ForeColor = System.Drawing.Color.White;
-            this.Timelbl.Location = new System.Drawing.Point(10, 206);
+            this.Timelbl.Location = new System.Drawing.Point(10, 231);
             this.Timelbl.Name = "Timelbl";
             this.Timelbl.Size = new System.Drawing.Size(776, 40);
             this.Timelbl.TabIndex = 2;
@@ -79,7 +79,7 @@
             // 
             this.Entertxt.Font = new System.Drawing.Font("Niagara Solid", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Entertxt.ForeColor = System.Drawing.Color.Black;
-            this.Entertxt.Location = new System.Drawing.Point(310, 249);
+            this.Entertxt.Location = new System.Drawing.Point(310, 274);
             this.Entertxt.Name = "Entertxt";
             this.Entertxt.Size = new System.Drawing.Size(191, 36);
             this.Entertxt.TabIndex = 3;
@@ -88,7 +88,7 @@
             // 
             this.Checkbtn.Font = new System.Drawing.Font("Niagara Solid", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Checkbtn.ForeColor = System.Drawing.Color.Black;
-            this.Checkbtn.Location = new System.Drawing.Point(351, 306);
+            this.Checkbtn.Location = new System.Drawing.Point(351, 331);
             this.Checkbtn.Name = "Checkbtn";
             this.Checkbtn.Size = new System.Drawing.Size(93, 45);
             this.Checkbtn.TabIndex = 4;
@@ -99,11 +99,11 @@
             // Resultlbl
             // 
             this.Resultlbl.BackColor = System.Drawing.Color.Transparent;
-            this.Resultlbl.Font = new System.Drawing.Font("Niagara Solid", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Resultlbl.ForeColor = System.Drawing.Color.Red;
-            this.Resultlbl.Location = new System.Drawing.Point(10, 370);
+            this.Resultlbl.Font = new System.Drawing.Font("Niagara Solid", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Resultlbl.ForeColor = System.Drawing.Color.GreenYellow;
+            this.Resultlbl.Location = new System.Drawing.Point(10, 379);
             this.Resultlbl.Name = "Resultlbl";
-            this.Resultlbl.Size = new System.Drawing.Size(776, 40);
+            this.Resultlbl.Size = new System.Drawing.Size(776, 71);
             this.Resultlbl.TabIndex = 5;
             this.Resultlbl.Text = "label4";
             this.Resultlbl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
