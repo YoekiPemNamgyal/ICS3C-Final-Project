@@ -50,6 +50,7 @@
             this.Wordslbl.TabIndex = 0;
             this.Wordslbl.Text = "label1";
             this.Wordslbl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.Wordslbl.Click += new System.EventHandler(this.Wordslbl_Click);
             // 
             // Hintlbl
             // 

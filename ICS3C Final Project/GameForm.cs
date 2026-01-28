@@ -149,5 +149,10 @@ namespace ICS3C_Final_Project
             };
             delayTimer.Start();
         }
+
+        private void Wordslbl_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
